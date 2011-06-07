@@ -4,9 +4,8 @@ Donate link: http://wizardinternetsolutions.com/
 Tags: vertical menu, foldout menu
 Requires at least: 3.0.1
 Tested up to: 3.1.3
-Stable tag: trunk
-
-Easily add a vertical menu to your widgetable sidebar. With this plugin you can create a flat menu with all parents/children visible or a stepping foldout menu where only children of the current page/parent will be visible.
+Stable tag: 0.9
+Easily add a vertical menu to your widgetable sidebar. With this plugin you can create a simple/flat menu or a foldout menu.
 
 == Description ==
 
@@ -25,6 +24,7 @@ To be notified of plugin updates, [follow us on Twitter](http://twitter.com/wiza
 3. Add `Vertical Menu Widget` to your widgetable area and configure the options.
 
 == Frequently Asked Questions ==
+
 
 
 == Screenshots ==
