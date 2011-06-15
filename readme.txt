@@ -11,6 +11,8 @@ Easily add a vertical menu to your widgetable sidebar. With this plugin you can 
 
 Easily add a vertical menu to your widgetable sidebar. With this plugin you can create a flat menu with all parents/children visible or a stepping foldout menu where only children of the current page/parent will be visible.
 
+If you like the plugin please rate it.
+
 [Vertical Menu Widget](http://wizardinternetsolutions.com/plugins/vertical-menu-widget/ "Vertical Menu Widget Page - Info, Demo and Discussion") - Info, Demo and Feature Discussion
 
 [Wizard Internet Solutions](http://wizardinternetsolutions.com/ "Website Design & Development") - Developers Site
