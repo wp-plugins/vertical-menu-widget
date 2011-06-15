@@ -5,7 +5,6 @@ Tags: vertical menu, foldout menu
 Requires at least: 3.0.1
 Tested up to: 3.1.3
 Stable tag: 0.9
-
 Easily add a vertical menu to your widgetable sidebar. With this plugin you can create a simple/flat menu or a foldout menu.
 
 == Description ==
@@ -26,7 +25,8 @@ To be notified of plugin updates, [follow us on Twitter](http://twitter.com/wiza
 
 == Frequently Asked Questions ==
 
-
+= Does this use java =
+Not currently. There may be options for this in the future.
 
 == Screenshots ==
 
