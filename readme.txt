@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Vertical Menu Widget ===
 Contributors: danieliser
 Donate link: http://wizardinternetsolutions.com/
 Tags: vertical menu, foldout menu
