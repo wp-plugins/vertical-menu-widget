@@ -25,7 +25,8 @@ To be notified of plugin updates, [follow us on Twitter](http://twitter.com/wiza
 
 == Frequently Asked Questions ==
 
-
+= Does this use java =
+Not currently. There may be options for this in the future.
 
 == Screenshots ==
 
