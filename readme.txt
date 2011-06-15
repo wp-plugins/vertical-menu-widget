@@ -14,7 +14,9 @@ Easily add a vertical menu to your widgetable sidebar. With this plugin you can 
 If you like the plugin please rate it.
 
 [Vertical Menu Widget](http://wizardinternetsolutions.com/plugins/vertical-menu-widget/ "Vertical Menu Widget Page - Info, Demo and Discussion") - Info, Demo and Feature Discussion
+
 [Wizard Internet Solutions](http://wizardinternetsolutions.com/ "Website Design & Development") - Developers Site
+
 To be notified of plugin updates, [follow us on Twitter](http://twitter.com/wizard_is "Wizard Internet Solutions on Twitter")!
 
 == Installation ==
