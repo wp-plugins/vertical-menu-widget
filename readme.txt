@@ -1,6 +1,6 @@
 === Vertical Menu Widget ===
 Contributors: danieliser
-Donate link: http://wizardinternetsolutions.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6WGSGV4M6RQQ4
 Tags: vertical menu, foldout menu
 Requires at least: 3.0.1
 Tested up to: 3.1.3
